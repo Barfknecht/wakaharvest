@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WakaHarvest", "WakaHarvest\WakaHarvest.csproj", "{269F9B5A-47BF-4A6B-83B6-03EC98DCB2C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{269F9B5A-47BF-4A6B-83B6-03EC98DCB2C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269F9B5A-47BF-4A6B-83B6-03EC98DCB2C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269F9B5A-47BF-4A6B-83B6-03EC98DCB2C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269F9B5A-47BF-4A6B-83B6-03EC98DCB2C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
